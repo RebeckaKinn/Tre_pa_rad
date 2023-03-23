@@ -1,0 +1,15 @@
+C:\Users\becka\Documents\Modul3\Tre_på_rad\bin\Debug\net6.0\Tre_på_rad.exe
+C:\Users\becka\Documents\Modul3\Tre_på_rad\bin\Debug\net6.0\Tre_på_rad.deps.json
+C:\Users\becka\Documents\Modul3\Tre_på_rad\bin\Debug\net6.0\Tre_på_rad.runtimeconfig.json
+C:\Users\becka\Documents\Modul3\Tre_på_rad\bin\Debug\net6.0\Tre_på_rad.dll
+C:\Users\becka\Documents\Modul3\Tre_på_rad\bin\Debug\net6.0\Tre_på_rad.pdb
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.csproj.AssemblyReference.cache
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.AssemblyInfoInputs.cache
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.AssemblyInfo.cs
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.csproj.CoreCompileInputs.cache
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.dll
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\refint\Tre_på_rad.dll
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.pdb
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\Tre_på_rad.genruntimeconfig.cache
+C:\Users\becka\Documents\Modul3\Tre_på_rad\obj\Debug\net6.0\ref\Tre_på_rad.dll
